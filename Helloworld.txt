@@ -1,5 +1,9 @@
 class Helloworld{
-	public static void main(String args[]){
+
+	void myMethod(){
 	System.out.println("Hello world...Welcome to Git...!!!");
+	}
+	public static void main(String args[]){
+	
 }
 }
