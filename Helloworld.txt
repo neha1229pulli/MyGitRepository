@@ -4,7 +4,12 @@ class Helloworld{
 	System.out.println("Hello world...Welcome to Git...!!!");
 	}
 	public static void main(String args[]){
+
 		Helloworld.myMethod();
+
+		Helloworld obj=new Helloworld();
+		obj.myMethod();
+
 	
 }
 }
